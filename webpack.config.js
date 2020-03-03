@@ -12,6 +12,7 @@ module.exports = {
   },
   devServer: {
     port: 9000,
+    historyApiFallback: true,
   },
   module: {
     rules: [
@@ -22,7 +23,11 @@ module.exports = {
       },
       {
         test: /\.css$/,
-        use: [MiniCssExtractPlugin.loader, 'css-loader'],
+        use: [
+          MiniCssExtractPlugin.loader,
+          'css-loader',
+          'postcss-loader',
+        ],
       },
       {
         test: /.(jpg|jpeg|png|gif|mp3|svg|json|ico)$/,
