@@ -696,4 +696,4 @@ module.exports = {
   },
   corePlugins: {},
   plugins: [],
-}
+};
