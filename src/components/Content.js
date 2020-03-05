@@ -6,16 +6,16 @@ import Courses from '../pages/Courses';
 import Persons from '../pages/Persons';
 
 const Content = () => (
-  <div className="container mx-auto">
+  <>
     <Switch>
       <Route path="/" exact>
         <Redirect to="/home" />
       </Route>
       <Route path="/home" component={Home} />
       <Route path="/courses" component={Courses} />
-      <Route path="/persons" component={Persons} />
+      <Route path="/team" component={Persons} />
     </Switch>
-  </div>
+  </>
 );
 
 export default Content;
