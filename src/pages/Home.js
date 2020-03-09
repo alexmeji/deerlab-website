@@ -1,12 +1,17 @@
 import React from 'react';
 
 import '../styles/Home.css';
-import DeerLabLogo from '../static/images/BrandPage.png';
+
+import WithDeerlab from '../components/WithDeerlab';
+import BoxContainers from '../components/BoxContainers';
+import BoxInfo from '../components/BoxInfo';
 
 const Home = () => (
-  <h1 className="home-full-cover">
-    <img className="center-image-cover" src={DeerLabLogo} alt="Cover how to do" />
-  </h1>
+  <>
+    <WithDeerlab />
+    <BoxContainers />
+    <BoxInfo />
+  </>
 );
 
 export default Home;

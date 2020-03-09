@@ -1,0 +1,25 @@
+.box-titles {
+  color: white;
+  margin: auto;
+  text-align: center;
+}
+
+.center-image-cover {
+  display: block;
+  height: auto;
+  margin-bottom: 55px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 55px;
+  width: auto;
+}
+
+.home-full-cover {
+  background: #3c3c3b;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 100%;
+  padding: 100px;
+  width: 100%;
+}

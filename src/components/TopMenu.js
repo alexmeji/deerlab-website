@@ -6,7 +6,7 @@ import '../styles/TopMenu.css';
 import DeerLabLogo from '../static/images/BrandPage.png';
 
 const TopMenu = () => (
-  <Navbar className="top-menu">
+  <Navbar className="top-menu" expand="lg">
     <Navbar.Brand>
       <Image src={DeerLabLogo} className="brand-logo" />
     </Navbar.Brand>
