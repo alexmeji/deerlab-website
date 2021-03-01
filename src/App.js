@@ -13,7 +13,7 @@ const App = () => (
       <Route path="/" exact>
         <Redirect to="/home" />
       </Route>
-      <Route path="/home" exact component={HomePage} />
+      <Route path="/home" component={HomePage} />
       <Route path="/courses" component={CoursesPage} />
     </Switch>
   </>
