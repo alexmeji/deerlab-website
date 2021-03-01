@@ -1,5 +1,6 @@
 {
   "name": "deerlab-website",
+  "homepage": "https://github.com/alexmeji/deerlab-website#readme",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,7 +8,6 @@
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
     "bootstrap": "^4.5.3",
-    "gh-pages": "^3.1.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
