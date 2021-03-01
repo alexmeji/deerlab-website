@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/deerlab-website/static/css/main.be788098.chunk.css",
-    "main.js": "/deerlab-website/static/js/main.ac9dc91d.chunk.js",
-    "main.js.map": "/deerlab-website/static/js/main.ac9dc91d.chunk.js.map",
-    "runtime~main.js": "/deerlab-website/static/js/runtime~main.15c83bf9.js",
-    "runtime~main.js.map": "/deerlab-website/static/js/runtime~main.15c83bf9.js.map",
-    "static/js/2.b41502e9.chunk.js": "/deerlab-website/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/deerlab-website/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/deerlab-website/index.html",
-    "precache-manifest.96f8c0728b0f548627032720c43bfb18.js": "/deerlab-website/precache-manifest.96f8c0728b0f548627032720c43bfb18.js",
-    "service-worker.js": "/deerlab-website/service-worker.js",
-    "static/css/main.be788098.chunk.css.map": "/deerlab-website/static/css/main.be788098.chunk.css.map",
-    "static/media/deerlablogo.jpg": "/deerlab-website/static/media/deerlablogo.f1846550.jpg"
-  }
+    "main.css": "/static/css/main.ad88861a.chunk.css",
+    "main.js": "/static/js/main.7b1d7e78.chunk.js",
+    "main.js.map": "/static/js/main.7b1d7e78.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.567de8de.js",
+    "runtime-main.js.map": "/static/js/runtime-main.567de8de.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.15d5fb53.chunk.js": "/static/js/2.15d5fb53.chunk.js",
+    "static/js/2.15d5fb53.chunk.js.map": "/static/js/2.15d5fb53.chunk.js.map",
+    "static/js/3.195e38da.chunk.js": "/static/js/3.195e38da.chunk.js",
+    "static/js/3.195e38da.chunk.js.map": "/static/js/3.195e38da.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ad88861a.chunk.css.map": "/static/css/main.ad88861a.chunk.css.map",
+    "static/js/2.15d5fb53.chunk.js.LICENSE.txt": "/static/js/2.15d5fb53.chunk.js.LICENSE.txt",
+    "static/media/page_cloud_computing.9f8ea2ea.png": "/static/media/page_cloud_computing.9f8ea2ea.png",
+    "static/media/page_despegar.b4ecfe52.png": "/static/media/page_despegar.b4ecfe52.png",
+    "static/media/page_with_deerlab.e29bd1e7.png": "/static/media/page_with_deerlab.e29bd1e7.png",
+    "static/media/tick.dc7b0f8d.svg": "/static/media/tick.dc7b0f8d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.567de8de.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.15d5fb53.chunk.js",
+    "static/css/main.ad88861a.chunk.css",
+    "static/js/main.7b1d7e78.chunk.js"
+  ]
 }
