@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/deerlab-website/static/css/main.ad88861a.chunk.css",
-    "main.js": "/deerlab-website/static/js/main.4b0acc84.chunk.js",
-    "main.js.map": "/deerlab-website/static/js/main.4b0acc84.chunk.js.map",
+    "main.css": "/deerlab-website/static/css/main.a7cf5ae5.chunk.css",
+    "main.js": "/deerlab-website/static/js/main.aed1c6fa.chunk.js",
+    "main.js.map": "/deerlab-website/static/js/main.aed1c6fa.chunk.js.map",
     "runtime-main.js": "/deerlab-website/static/js/runtime-main.e77f7eff.js",
     "runtime-main.js.map": "/deerlab-website/static/js/runtime-main.e77f7eff.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/deerlab-website/static/css/2.20aa2d7b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.195e38da.chunk.js.map": "/deerlab-website/static/js/3.195e38da.chunk.js.map",
     "index.html": "/deerlab-website/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/deerlab-website/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.ad88861a.chunk.css.map": "/deerlab-website/static/css/main.ad88861a.chunk.css.map",
+    "static/css/main.a7cf5ae5.chunk.css.map": "/deerlab-website/static/css/main.a7cf5ae5.chunk.css.map",
     "static/js/2.2d289ceb.chunk.js.LICENSE.txt": "/deerlab-website/static/js/2.2d289ceb.chunk.js.LICENSE.txt",
     "static/media/page_cloud_computing.9f8ea2ea.png": "/deerlab-website/static/media/page_cloud_computing.9f8ea2ea.png",
     "static/media/page_despegar.b4ecfe52.png": "/deerlab-website/static/media/page_despegar.b4ecfe52.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.e77f7eff.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.2d289ceb.chunk.js",
-    "static/css/main.ad88861a.chunk.css",
-    "static/js/main.4b0acc84.chunk.js"
+    "static/css/main.a7cf5ae5.chunk.css",
+    "static/js/main.aed1c6fa.chunk.js"
   ]
 }
