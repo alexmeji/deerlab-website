@@ -1,0 +1,20 @@
+.brand-logo {
+  height: 60px;
+}
+
+footer {
+  background: #343a40;
+  padding: 20px 0;
+  margin-top: 100px;
+}
+
+footer .footer-elements {
+  text-align: center;
+}
+
+footer .footer-elements p {
+  color: white;
+  display: inline;
+  font-weight: 500;
+  margin-left: 50px;
+}

@@ -1,15 +1,15 @@
-.top-menu {
-  background: #3c3c3b;
-}
-
 .topmenu-link {
   color: white;
   font-size: 1.2rem;
   margin-left: 15px;
+  font-family: 'Montserrat';
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.4;
 }
 
 .topmenu-link:hover {
-  color: white;
+  color: #ef4b4b;
   border-bottom: 2px solid white;
   text-decoration: none;
   transition: all 0.3s;

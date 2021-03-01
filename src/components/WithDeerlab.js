@@ -1,15 +1,27 @@
 import React from 'react';
+import {
+  Container,
+  Image,
+  Row,
+  Col
+} from 'react-bootstrap';
 
 import '../styles/WithDeerlab.css';
-import DeerLabLogo from '../static/images/BrandPage.png';
+import HeadPicture from '../images/page_with_deerlab.png';
 
 const WithDeerlab = () => (
-  <div className="home-full-cover">
-    <img className="center-image-cover" src={DeerLabLogo} alt="Cover how to do" />
-    <div className="box-titles">
-      <h1>Diseñamos software para ayudarte a crecer!</h1>
-      <h5>Tu lo imaginas, nosotros lo logramos.</h5>
-    </div>
+  <div className="container-cover">
+    <Container>
+      <Row>
+        <Col xl="6" className="container-titles">
+          <h4>¿Necesitas una aplicación?</h4>
+          <h2>Nosotros lo creamos para ti.</h2>
+        </Col>
+        <Col xl="6">
+          <Image src={HeadPicture} className="image-cover" alt="PC Image" />
+        </Col>
+      </Row>
+    </Container>
   </div>
 );
 

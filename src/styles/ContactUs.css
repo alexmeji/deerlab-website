@@ -1,0 +1,34 @@
+.contactus-box {
+  padding: 100px 0 20px 0;
+  border-radius: 0;
+  margin: 0 auto;
+  max-width: 800px;
+  text-align: center;
+}
+
+.contactus-box h2 {
+  font-family: 'Montserrat';
+  font-size: 34px;
+  font-weight: 800;
+  line-height: 1.4;
+  color: #383B61;
+  text-transform: uppercase;
+}
+
+.contactus-box button {
+  border: none;
+  color: white;
+  background: #ef4b4b;
+  margin-left: 0;
+  padding: 0 50px 0 50px;
+  height: 45px;
+  font-family: 'Montserrat';
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-top: 50px;
+}
+
+.contactus-box button:hover {
+  background: #aa4949;
+}

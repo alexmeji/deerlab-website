@@ -1,15 +1,22 @@
 import React from 'react';
+import { Switch, Route, Redirect } from 'react-router-dom';
 
-import './styles/App.css';
+import HomePage from './pages/Home';
+import CoursesPage from './pages/Courses';
 
 import TopMenu from './components/TopMenu';
-import Content from './components/Content';
 
 const App = () => (
-  <main>
+  <>
     <TopMenu />
-    <Content />
-  </main>
+    <Switch>
+      <Route path="/" exact>
+        <Redirect to="/home" />
+      </Route>
+      <Route path="/home" exact component={HomePage} />
+      <Route path="/courses" component={CoursesPage} />
+    </Switch>
+  </>
 );
 
 export default App;

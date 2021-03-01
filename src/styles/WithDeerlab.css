@@ -1,25 +1,22 @@
-.box-titles {
-  color: #3c3c3b;
+.container-cover {
+  background: #f0f5f9;
+  padding: 50px 0;
+}
+
+.container-titles {
+  text-align: left;
   margin: auto;
-  text-align: center;
 }
 
-.center-image-cover {
-  display: block;
-  height: auto;
-  margin-bottom: 55px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 55px;
-  width: auto;
+.container-titles h4 {
+  color: #5c5c5c;
 }
 
-.home-full-cover {
-  background: #3c3c3b;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  height: 100%;
-  padding: 100px;
+.container-titles h2 {
+  color: #3a3a47
+}
+
+.image-cover {
   width: 100%;
+  height: auto;
 }

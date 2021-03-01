@@ -1,7 +1,13 @@
 import React from 'react';
 
+import ListCourses from '../components/ListCourses';
+import Footer from '../components/Footer';
+
 const Courses = () => (
-  <div>Courses</div>
+  <>
+    <ListCourses />
+    <Footer />
+  </>
 );
 
 export default Courses;

@@ -1,16 +1,20 @@
 import React from 'react';
 
-import '../styles/Home.css';
-
 import WithDeerlab from '../components/WithDeerlab';
-import BoxContainers from '../components/BoxContainers';
-import BoxInfo from '../components/BoxInfo';
+import About from '../components/About';
+import Features from '../components/Features';
+import Faq from '../components/Faq';
+import ContactUs from '../components/ContactUs';
+import Footer from '../components/Footer';
 
 const Home = () => (
   <>
     <WithDeerlab />
-    <BoxContainers />
-    <BoxInfo />
+    <About />
+    <Features />
+    <Faq />
+    <ContactUs />
+    <Footer />
   </>
 );
 
