@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/deerlab-website/static/css/main.ad88861a.chunk.css",
-    "main.js": "/deerlab-website/static/js/main.7b1d7e78.chunk.js",
-    "main.js.map": "/deerlab-website/static/js/main.7b1d7e78.chunk.js.map",
+    "main.js": "/deerlab-website/static/js/main.78f011b8.chunk.js",
+    "main.js.map": "/deerlab-website/static/js/main.78f011b8.chunk.js.map",
     "runtime-main.js": "/deerlab-website/static/js/runtime-main.e77f7eff.js",
     "runtime-main.js.map": "/deerlab-website/static/js/runtime-main.e77f7eff.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/deerlab-website/static/css/2.20aa2d7b.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.15d5fb53.chunk.js",
     "static/css/main.ad88861a.chunk.css",
-    "static/js/main.7b1d7e78.chunk.js"
+    "static/js/main.78f011b8.chunk.js"
   ]
 }
