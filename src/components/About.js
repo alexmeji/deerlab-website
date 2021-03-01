@@ -41,8 +41,8 @@ const About = () => (
         <Card>
           <Card.Img variant="top" src={Talleres} />
           <Card.Body>
-            <Card.Title>Talleres</Card.Title>
-            <Card.Text>Creamos talleres para formar a los mejores desarolladores en el mercado, enseñando lo ultimo en tecnología en el mercado.</Card.Text>
+            <Card.Title>Capacitaciones</Card.Title>
+            <Card.Text>Contamos con capacitaciones de alto nivel para formar a los programadores del mañana, trabajando con las últimas tecnologías en el mercado Nacional e Internacional.</Card.Text>
           </Card.Body>
         </Card>
       </CardGroup>

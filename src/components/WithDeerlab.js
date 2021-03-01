@@ -14,7 +14,7 @@ const WithDeerlab = () => (
     <Container>
       <Row>
         <Col xl="6" className="container-titles">
-          <h4>¿Necesitas una aplicación?</h4>
+          <h4>¿Tienes una ídea en mente y quieres hacerla realidad?</h4>
           <h2>Nosotros lo creamos para ti.</h2>
         </Col>
         <Col xl="6">

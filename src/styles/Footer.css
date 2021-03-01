@@ -4,8 +4,7 @@
 
 footer {
   background: #343a40;
-  padding: 20px 0;
-  margin-top: 100px;
+  padding: 20px;
 }
 
 footer .footer-elements {
@@ -17,4 +16,5 @@ footer .footer-elements p {
   display: inline;
   font-weight: 500;
   margin-left: 50px;
+  font-family: 'Montserrat';
 }
