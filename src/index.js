@@ -3,7 +3,6 @@ import { render } from 'react-dom';
 import { HashRouter } from 'react-router-dom';
 
 import './styles/index.css';
-import './CNAME';
 
 import App from './App';
 import reportWebVitals from './reportWebVitals';
